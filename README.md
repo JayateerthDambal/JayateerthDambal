@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Hey Hi, I'm [Jayateerth Dambal](https://jdtechnologies.ml/), a passionate self-taught Python Developer and a part time Student from India. My passion for Electronics Hardware and Software lies within dreaming up the ideas and making them come true with Hard Work.I build things with Raspberry pi <img align="center" alt="Raspberry Pi" width="22px" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" /> and Arduino <img align="center" alt="Arduino" width="22px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"/> I also contribute to OpenSource Projects on Github. Working on an OpenSource Project is a great experience for an Developer. I normally work on Raspberry Pi based Image Processing Projects like Face Recognition and Object Detection.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JayateerthDambal&theme=synthwave&hide_border=true&stroke=8F12DD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JayateerthDambal&theme=material-palenight&hide_border=true&border_radius=21.8)](https://git.io/streak-stats)
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JayateerthDambal&show_icons=true&theme=nightowl" alt="JayateerthDambal" />
